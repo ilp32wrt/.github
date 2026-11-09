@@ -22,7 +22,7 @@ the same tree built for standard 64-bit (LP64). [Benchmarks](https://ilp32.org/e
 ## Repositories
 | Repository | Content |
 |---|---|
-| [ilp32wrt](https://github.com/ilp32-a64/ilp32wrt) | Build tree, firmware releases and device reports |
+| [ilp32wrt](https://github.com/ilp32wrt/ilp32wrt) | Build tree, firmware releases and device reports |
 | [packages](https://github.com/ilp32wrt/packages) | Fork of the packages feed (`openwrt-25.12`) for ILP32Wrt |
 | [luci](https://github.com/ilp32wrt/luci) | Fork of the LuCI feed (`openwrt-25.12`) for ILP32Wrt |
 
